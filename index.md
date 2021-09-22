@@ -5,3 +5,4 @@ Sono un web designer e un produttore musicale, sto seguendo un percorso di studi
 ### Esempi
 
 # [Javascript Snake](Davidemonaco.github.io/javascriptsnake)
+# [Criptazione file](https://github.com/Davidemonaco/dataencrypter/blob/main/mainscript.py)
