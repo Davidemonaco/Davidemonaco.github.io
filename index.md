@@ -4,5 +4,5 @@ Sono un web designer e un produttore musicale, sto seguendo un percorso di studi
 
 ### Esempi
 
-# [Javascript Snake](Davidemonaco.github.io/javascriptsnake)
+# [Javascript Snake](Davidemonaco.github.io/javascriptsnake)(https://davidemonaco.github.io/)
 # [Criptazione file](https://raw.githubusercontent.com/Davidemonaco/dataencrypter/main/mainscript.py)
